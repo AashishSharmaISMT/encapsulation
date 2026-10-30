@@ -12,3 +12,4 @@ C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10
 C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.pdb
 C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.genruntimeconfig.cache
 C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\ref\New_project.dll
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.sourcelink.json
