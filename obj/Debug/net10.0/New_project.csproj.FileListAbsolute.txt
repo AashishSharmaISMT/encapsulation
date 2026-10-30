@@ -1,0 +1,14 @@
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.AssemblyInfoInputs.cache
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.AssemblyInfo.cs
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.csproj.CoreCompileInputs.cache
+C:\CET2007-System Design and Development\New Console\New_project\bin\Debug\net10.0\New_project.exe
+C:\CET2007-System Design and Development\New Console\New_project\bin\Debug\net10.0\New_project.deps.json
+C:\CET2007-System Design and Development\New Console\New_project\bin\Debug\net10.0\New_project.runtimeconfig.json
+C:\CET2007-System Design and Development\New Console\New_project\bin\Debug\net10.0\New_project.dll
+C:\CET2007-System Design and Development\New Console\New_project\bin\Debug\net10.0\New_project.pdb
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.dll
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\refint\New_project.dll
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.pdb
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\New_project.genruntimeconfig.cache
+C:\CET2007-System Design and Development\New Console\New_project\obj\Debug\net10.0\ref\New_project.dll
